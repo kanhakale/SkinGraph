@@ -1,0 +1,22 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (If you use a virtual env)
+env/
+venv/
+.env
+
+# Data and large weights (Optional)
+# If your .pkl or .pth files are >50MB, uncomment these:
+# data/*.pkl
+# weights/*.pth
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
