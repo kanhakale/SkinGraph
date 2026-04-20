@@ -82,10 +82,7 @@ python main.py
 ## 📩 Contact & Contributions
 
 **Authors:** 
-Divyank
-Priyanshu Kumari
-Kanha Shrikant Kale  
-**Project Link:** [https://github.com/your-username/Skincare-GNN](https://github.com/your-username/Skincare-GNN)
+Divyank | Priyanshu Kumari | Kanha Shrikant Kale  
 
 *This project was developed as part of an Engineering Research initiative. Contributions, issues, and feature requests are welcome!*
 
